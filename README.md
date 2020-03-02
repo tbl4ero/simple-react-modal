@@ -2,12 +2,12 @@ This is a very simple and minimalistic react modal component, that creates an ov
 
 # Usage
 
-`npm i react-simple-modal --save`
+`npm i @tbl4ero/react-simple-modal --save`
 
 
 
 ```
-import Modal from 'react-simple-modal';
+import Modal from '@tbl4ero/react-simple-modal';
 
 const ModalCard = props => {
     return (
